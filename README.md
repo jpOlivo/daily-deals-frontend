@@ -1,6 +1,14 @@
-# DailyDealsApp
+# Daily Deals App
+
+An Angular app that allows access to deals  both public and private (for users logged). It delegates to Auth0 the log in functionality. The deals are consumed from an [API Rest](https://github.com/jpOlivo/daily-deals-backend)
+
+This app was developed following the [Auth0 tutorial](https://auth0.com/blog/angular-2-authentication/#)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+
+![img](https://i.imgur.com/kTiFwZX.png)
+
+![img](https://i.imgur.com/XHolNFk.png)
 
 ## Development server
 
